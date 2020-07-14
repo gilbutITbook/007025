@@ -1,12 +1,12 @@
 <자바 코딩의 기술> 소스 코드
 ===========================
 
-웹 페이지: https://pragprog.com/titles/javacomp
-토론 포럼: http://forums.pragprog.com/forums/javacomp
-정오표: http://pragprog.com/titles/javacomp/errata
-소스 코드: https://pragprog.com/titles/javacomp/source_code
-길벗 홈페이지: https://www.gilbut.co.kr
-길벗 소스 코드: https://github.com/gilbutITbook/007025
+- 웹 페이지: https://pragprog.com/titles/javacomp
+- 토론 포럼: http://forums.pragprog.com/forums/javacomp
+- 정오표: http://pragprog.com/titles/javacomp/errata
+- 소스 코드: https://pragprog.com/titles/javacomp/source_code
+- 길벗 홈페이지: https://www.gilbut.co.kr
+- 길벗 소스 코드: https://github.com/gilbutITbook/007025
 
 ### 실습 준비 사항
 실습에는 다음 준비 사항이 필요합니다.
