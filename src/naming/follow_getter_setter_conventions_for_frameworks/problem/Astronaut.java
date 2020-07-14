@@ -1,0 +1,35 @@
+/***
+ * Excerpted from "Java By Comparison",
+ * published by The Pragmatic Bookshelf.
+ * Copyrights apply to this code. It may not be used to create training material,
+ * courses, books, articles, and the like. Contact us if you are in doubt.
+ * We make no guarantees that this code is fit for any purpose.
+ * Visit http://www.pragmaticprogrammer.com/titles/javacomp for more book information.
+***/
+package naming.follow_getter_setter_conventions_for_frameworks.problem;
+
+class Astronaut {
+
+    String name;
+    boolean retired;
+
+    Astronaut(String name) {
+        this.name = name;
+    }
+
+    String getFullName() {
+        return name;
+    }
+
+    void setFullName(String name) {
+        this.name = name;
+    }
+
+    boolean getRetired() {
+        return retired;
+    }
+
+    void setRetiredState(boolean retired) {
+        this.retired = retired;
+    }
+}
